@@ -1,6 +1,8 @@
 # Linux Practice Lab – Directories and Files
 > Day-21 (29th May, 2026)
 
+## TRY THIS ASSIGNMENT FIRST WITHOUT THE VIDEO (OR USE THE VIDEO TO DO THIS WORK)
+
 ### Objective:
 >
 > Students will learn how to:
